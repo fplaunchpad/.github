@@ -1,5 +1,5 @@
-## Prism at IIT Madras 🌈⃤ 
+## FP Launchpad
 
-Prism lab at IIT Madras aims to build robust systems with programming language technology. We develop programming language abstractions and tools that empower developers to build secure, scalable and reliable software systems. The group is headed by [KC Sivaramakrishnan](https://kcsrk.info). The [publications page](https://kcsrk.info/publications.html) gives an idea of what the group _has_ been working on in the recent past. 
+The Functional Programming (FP) Launchpad at [IIT Madras](https://www.iitm.ac.in/) aims to build research and educational capacity for crafting **efficient, reliable and trustworthy software with mathematical guardrails**. The centre is headed by [KC Sivaramakrishnan](https://kcsrk.info). 
 
-If you are interested in joining the group, see this [post]().
+If you are interested in joining the group, see this [post](https://kcsrk.info/ocaml/iitm/community/2025/04/28/working-with-me/).
